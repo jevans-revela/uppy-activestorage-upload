@@ -30,7 +30,8 @@
   },
   "devDependencies": {
     "@rails/activestorage": "^7.0.4",
-    "@uppy/core": "^3.0.4"
+    "@uppy/core": "^3.0.4",
+    "np": "*"
   },
   "peerDependencies": {
     "@rails/activestorage": "*",
@@ -41,6 +42,5 @@
   },
   "dependencies": {
     "@paralleldrive/cuid2": "^2.0.1",
-    "np": "^7.6.3"
   }
 }
